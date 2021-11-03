@@ -1,0 +1,11 @@
+/data/logs/
+/data/news/
+/sentiment_analysis/all_data_preprocess/data/
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/StockTrendPredict.iml
+/.idea/vcs.xml
